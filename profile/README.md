@@ -100,8 +100,8 @@
 
 ---
 
-## 📂 문서 자료
+## 📂 자료
 
-- [포팅 메뉴얼](https://github.com/SSAFY-Sembot/Sembot/blob/develop/exec/%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.md)
+- [클론 레포지토리](https://github.com/HulaHoop-Gateway/HulahoopDeploy)
 
 ---
