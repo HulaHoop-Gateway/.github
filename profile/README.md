@@ -1,8 +1,8 @@
-### SEMBOT - 사내 규정 챗봇 서비스
+### HULAHOOP - 게이트웨이를 통한 AI 예약 프로그램
 
 <div align="center">
-  <h1>SEMBOT - 사내 규정 챗봇 서비스</h1>
-  <p>🔍 LLM 기반 사내 규정 챗봇 서비스 🔍</p>
+  <h1>HULAHOOP - 게이트웨이를 통한 AI 예약 프로그램</h1>
+  <p>🔍 게이트웨이 기반 예약 챗봇 서비스 🔍</p>
 </div>
 
 <br/>
@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <a href="">홈페이지</a>
+  <a href="http://hulahoop.ai.kr/">홈페이지</a>
     |  
   <a href="">Swagger</a>
 </div>
