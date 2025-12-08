@@ -33,15 +33,15 @@
 
 ### 프로젝트 배경
 
-사내에서 업무 절차 및 규정을 확인하는 기존 프로세스는 다음과 같은 문제점이 있었습니다:
+기존 AI서비스의 한계:
 
-1. **비효율적인 정보 탐색** 
+1. **** 
 
-2. **기존 챗봇의 한계** 
+2. **** 
 
-3. **규정 관리의 비효율성** 
+3. *** 
 
-**SEMBOT**은 위 문제를 해결하기 위해 LLM(Large Language Model)과 RAG(Retrieval-Augmented Generation) 기술을 활용하여 자연어를 이해하고, 최신 규정 정보를 기반으로 신뢰도 높은 답변을 제공하는 서비스입니다.
+****은 위 문제를 해결하기 위해
 
 ---
 
@@ -100,6 +100,6 @@
 
 ## 📂 자료
 
-- [클론 레포지토리](https://github.com/HulaHoop-Gateway/HulahoopDeploy)
+- [프로젝트 바로가기](https://github.com/HulaHoop-Gateway/HulahoopDeploy)
 
 ---
