@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/73ab4fe0-fedd-4f41-ac8e-6ba5caa85512" alt="Main" style="border-radius: 10px;"/>
+  <img src="https://www.veed.io/view/10e96235-23e9-45d3-abff-ab20b23bfbec?panel=share" alt="Main" style="border-radius: 10px;"/>
 </div>
 
 <br/>
