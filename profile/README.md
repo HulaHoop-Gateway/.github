@@ -31,10 +31,13 @@
 
 ### 프로젝트 배경
 
- **AI 기술은 빠른 속도로 발전하며, 
-앞으로 AI는 사용자의 질문에 답변만 하는 것이 아니라, 예약·승인·결제 등 실제 시스템과 연동된 실행형 업무까지 처리하는 시대가 도래할 것으로 예상됩니다.**
+ **AI 기술은 빠른 속도로 발전하며,음악,그림,영상 등의 다양한 분야에 쓰이고 있습니다.
+앞으로 AI는 이뿐만이 아니라, 예약·승인·결제 등 실제 시스템과 연동된 실행형 업무까지 처리하는 시대가 도래할 것으로 예상됩니다.**
 
-**Hulahoop Gateway**는 위 문제를 해결하기 위해
+기존의 질문→답변 중심 AI는 한계가 명확해졌으며, 기업들은 단순히 “설명만 하는 AI”로는 원하는 생산성과 효율성을 확보하기 어려워졌습니다.
+앞으로는 **사용자의 의도를 이해하고, 실제 시스템을 직접 조작하며, 업무 전체를 끝까지 수행하는 AI**가 핵심 경쟁력이 될 것이라고 생각합니다.
+
+이를 구현하기 위해, 사용자의 요청을 정확히 해석하고 각 서비스로 안전하게 전달할 수 있는 ‘게이트웨이’를 구축하여 실제 업무 실행까지 이어지도록 설계했습니다.
 
 ---
 
@@ -83,6 +86,12 @@
   <tbody>
     <tr>
       <td>프론트엔드</td>
+      <td>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/github/discussions/:user/:repo"/>
+      </td>
+      <td>백엔드</td>
       <td>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
