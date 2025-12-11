@@ -15,8 +15,6 @@
 
 <div align="center">
   <a href="http://hulahoop.ai.kr/">홈페이지</a>
-  &nbsp; | &nbsp;
-  <a href="https://www.notion.so/ohgiraffers/Hulahoop-27d649136c11809d8191cc17564221ab?source=copy_link">노션</a>
 </div>
 
 ---
