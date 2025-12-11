@@ -51,18 +51,6 @@
 
 ---
 
-## 📌 주요 기능
-
-### **0. 회원가입 | 로그인**
-
-#### **회원가입**
-
-<div align="center">
-<img src="./assets/회원가입.gif" alt="회원가입" style="border-radius: 10px; width: 700px;"/>
-</div>
-
----
-
 ## 🧑‍💻 팀원 소개
 
 | **이름**    | **역할**        | 
@@ -101,6 +89,8 @@
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
       </td>
+    </tr>
+    <tr>
       <td>데이터베이스</td>
       <td>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
